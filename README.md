@@ -17,8 +17,6 @@ I'm Suwetha Ilangovan Gajalakshmi, a Data Analyst and M.Eng graduate from the Un
 - **Tableau Airbnb Dashboard**
 - **Demographic Trends with Python EDA**
 
-Check out my [GitHub repositories](https://github.com/Suwethaig?tab=repositories) for more details on these and other projects!
-
 ### 🤝 Collaboration
 - Open to collaborating on projects related to data analysis, machine learning and deep learning.
 
