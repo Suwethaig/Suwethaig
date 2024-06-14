@@ -1,16 +1,28 @@
 ## Hi there 👋
 
-<!--
-**Suwethaig/Suwethaig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Suwetha Ilangovan Gajalakshmi, a Data Analyst and M.Eng graduate from the University of British Columbia!
 
-Here are some ideas to get you started:
+### 🎓 Education
+- **M.Eng in Electrical and Computer Engineering** - University of British Columbia, Canada
+- **B.Tech in Electronics and Communication Engineering** - SRM Institute of Science and Technology, India
+  
+### 💻 Skills
+- **Languages**: Python, C, SQL, R
+- **Frameworks/Libraries**: Pandas, Matplotlib, Seaborn, BeautifulSoup, Dplyr, Ggplot, Tidyr
+- **Tools**: Git, GitHub, Tableau, Power BI, Excel
+- **Other Skills**: Data Visualization, Dashboard Design, Exploratory Data Analysis, Curriculum Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 Projects
+- **SQL COVID-19 Data Analysis**
+- **Tableau Airbnb Dashboard**
+- **Demographic Trends with Python EDA**
+
+Check out my [GitHub repositories](https://github.com/Suwethaig?tab=repositories) for more details on these and other projects!
+
+### 🤝 Collaboration
+- Open to collaborating on projects related to data analysis, machine learning and deep learning.
+
+### 📫 How to Reach Me
+- **Email**: igsuwetha@gmail.com
+- **LinkedIn**: [Suwetha Ilangovan Gajalakshmi](https://www.linkedin.com/in/suwetha-ig/)
+- **GitHub**: [Suwethaig](https://github.com/Suwethaig)
