@@ -13,9 +13,9 @@ I'm Suwetha Ilangovan Gajalakshmi, a Data Analyst and M.Eng graduate from the Un
 - **Other Skills**: Data Visualization, Dashboard Design, Exploratory Data Analysis, Curriculum Development
 
 ### 🔭 Projects
-- **SQL COVID-19 Data Analysis**
-- **Tableau Airbnb Dashboard**
-- **Demographic Trends with Python EDA**
+- SQL COVID-19 Data Analysis
+- Tableau Airbnb Dashboard
+- Demographic Trends with Python EDA
 
 ### 🤝 Collaboration
 - Open to collaborating on projects related to data analysis, machine learning and deep learning.
