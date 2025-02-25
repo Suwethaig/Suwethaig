@@ -3,10 +3,10 @@
 I'm Suwetha Ilangovan Gajalakshmi, a **Data Enthusiast** with a passion for problem-solving and data-driven insights.  
 
 ### 📂 Projects   
-Check out my [Projects Folder](https://github.com/Suwethaig?tab=repositories) to see a diverse range of projects I've worked on, including:  
-- Vancouver Rental Market Analysis using SQL
-- Global Population Exploration with Python
-- British Airways Reviews Tableau Dashboard  
+Check out my [Projects Folder](https://github.com/Suwethaig/Projects.git) to see a diverse range of projects I've worked on, including:  
+- *Vancouver Rental Market Analysis using SQL*
+- *Global Population Exploration with Python*
+- *British Airways Reviews Tableau Dashboard*  
 
 ### 🎓 Education  
 - **M.Eng in Electrical and Computer Engineering** - University of British Columbia, Canada  
