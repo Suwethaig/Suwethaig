@@ -24,5 +24,5 @@ Check out my [Projects Folder](https://github.com/Suwethaig/Projects.git) to see
 I'm open to collaborating on data analysis, machine learning, and deep learning projects! Feel free to reach out for any potential partnerships or contributions.
 
 ### 📫 How to Reach Me  
-- **Email**: igsuwetha@gmail.com  
-- **LinkedIn**: [Suwetha Ilangovan Gajalakshmi](www.linkedin.com/in/suwethaig)
+- **Email**: [igsuwetha@gmail.com](mailto:igsuwetha@gmail.com)  
+- **LinkedIn**: [Suwetha Ilangovan Gajalakshmi](https://www.linkedin.com/in/suwetha-ig/)
