@@ -1,26 +1,28 @@
 ## Hi there 👋
 
-I'm Suwetha Ilangovan Gajalakshmi, a Data Analyst and M.Eng graduate from the University of British Columbia!
+I'm Suwetha Ilangovan Gajalakshmi, a **Data Enthusiast** with a passion for problem-solving and data-driven insights.  
 
-### 🎓 Education
-- **M.Eng in Electrical and Computer Engineering** - University of British Columbia, Canada
-- **B.Tech in Electronics and Communication Engineering** - SRM Institute of Science and Technology, India
-  
-### 💻 Skills
-- **Languages**: Python, C, SQL, R
-- **Frameworks/Libraries**: Pandas, Matplotlib, Seaborn, BeautifulSoup, Dplyr, Ggplot, Tidyr
-- **Tools**: Git, GitHub, Tableau, Power BI, Excel
-- **Other Skills**: Data Visualization, Dashboard Design, Exploratory Data Analysis, Curriculum Development
+### 📂 Projects   
+Check out my [Projects Folder](https://github.com/Suwethaig?tab=repositories) to see a diverse range of projects I've worked on, including:  
+- Vancouver Rental Market Analysis using SQL
+- Global Population Exploration with Python
+- British Airways Reviews Tableau Dashboard  
 
-### 🔭 Projects
-- SQL COVID-19 Data Analysis
-- Tableau Airbnb Dashboard
-- Demographic Trends with Python EDA
+### 🎓 Education  
+- **M.Eng in Electrical and Computer Engineering** - University of British Columbia, Canada  
+- **B.Tech in Electronics and Communication Engineering** - SRM Institute of Science and Technology, India  
 
-### 🤝 Collaboration
-- Open to collaborating on projects related to data analysis, machine learning and deep learning.
+### 💻 Skills  
+- **Languages**: Python, SQL, R, C, Java
+- **Libraries/Frameworks**: Pandas, Matplotlib, Seaborn, BeautifulSoup, Scikit-Learn, Tensorflow, PyTorch
+- **Tools**: Git, GitHub, Tableau, Power BI, Excel  
+- **Data Skills**: Data Cleaning, Data Visualization, Exploratory Data Analysis, Dashboard Design  
+- **Other Skills**: Problem Solving, Machine Learning, Communication, Curriculum Development
 
-### 📫 How to Reach Me
-- **Email**: igsuwetha@gmail.com
-- **LinkedIn**: [Suwetha Ilangovan Gajalakshmi](https://www.linkedin.com/in/suwetha-ig/)
-- **GitHub**: [Suwethaig](https://github.com/Suwethaig)
+### 🔭 Collaboration  
+I'm open to collaborating on data analysis, machine learning, and deep learning projects! Feel free to reach out for any potential partnerships or contributions.
+
+### 📫 How to Reach Me  
+- **Email**: igsuwetha@gmail.com  
+- **LinkedIn**: [Suwetha Ilangovan Gajalakshmi](https://www.linkedin.com/in/suwetha-ig/)  
+- **GitHub**: [Suwethaig](https://github.com/Suwethaig)  
