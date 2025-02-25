@@ -25,5 +25,4 @@ I'm open to collaborating on data analysis, machine learning, and deep learning 
 
 ### 📫 How to Reach Me  
 - **Email**: igsuwetha@gmail.com  
-- **LinkedIn**: [Suwetha Ilangovan Gajalakshmi](https://www.linkedin.com/in/suwetha-ig/)  
-- **GitHub**: [Suwethaig](https://github.com/Suwethaig)
+- **LinkedIn**: [Suwetha Ilangovan Gajalakshmi](www.linkedin.com/in/suwethaig)
