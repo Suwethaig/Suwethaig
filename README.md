@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Suwetha Ilangovan Gajalakshmi, a **Data Enthusiast** with a passion for problem-solving and data-driven insights.
+I'm Suwetha Ilangovan Gajalakshmi, a **Data Analyst** with a passion for problem-solving and data-driven insights.
 
 ### 📂 Projects   
 Check out my [Projects Folder](https://github.com/Suwethaig/Projects.git) to see a diverse range of projects I've worked on, including:  
