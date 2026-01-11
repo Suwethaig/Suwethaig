@@ -4,7 +4,7 @@ I'm Suwetha Ilangovan Gajalakshmi, a **Data Enthusiast** with a passion for prob
 
 ### 📂 Projects   
 Check out my [Projects Folder](https://github.com/Suwethaig/Projects.git) to see a diverse range of projects I've worked on, including:  
-- *Marketing Analytics Business Case **(Ongoing)***
+- *Marketing Analytics Business Case*
 - *Vancouver Rental Market Analysis using SQL*
 - *Global Population Exploration with Python*
 - *British Airways Reviews Tableau Dashboard*
