@@ -56,8 +56,8 @@ My projects focus on preparing messy data, improving data quality, finding patte
 ## Other Projects
 
 - [Global Population Data Exploration](https://github.com/Suwethaig/Projects/tree/main/global_population_exploration) — Python-based demographic analysis  
-- [British Airways Reviews Dashboard](https://github.com/Suwethaig/Projects/tree/main/british_airways_reviews_dashboard) — Tableau dashboard using customer review data  
-- [King County House Sales Dashboard](https://github.com/Suwethaig/Projects/tree/main/king_county_house_sales_dashboard) — Tableau dashboard analyzing housing market trends  
+- [British Airways Reviews Dashboard](https://github.com/Suwethaig/Projects/tree/main/dashboards/british_airways_reviews_dashboard) — Tableau dashboard using customer review data  
+- [King County House Sales Dashboard](https://github.com/Suwethaig/Projects/tree/main/dashboards/king_county_house_sales_dashboard) — Tableau dashboard analyzing housing market trends  
 
 ---
 
